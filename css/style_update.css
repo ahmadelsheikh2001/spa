@@ -1,0 +1,29 @@
+.site-navbar .site-logo {
+  left: initial;
+  right: 0;
+}
+
+.site-navbar .site-navigation .site-menu .has-children > a span {
+  padding-left: 30px;
+}
+
+.site-navbar .site-navigation .site-menu .has-children > a span:before {
+  right: initial;
+  left: 10px;
+}
+
+.site-mobile-menu .site-nav-wrap .arrow-collapse {
+  right: initial;
+  left: 0;
+}
+
+.site-mobile-menu .site-nav-wrap > li > a {
+  padding-right: 20px;
+  font-size: 20px;
+  float: right;
+}
+.offcanvas-menu .site-mobile-menu {
+  left: 0 !important;
+
+}
+
